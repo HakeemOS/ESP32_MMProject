@@ -1,4 +1,4 @@
-# _Sample project_
+# _ESP32 Series_
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
